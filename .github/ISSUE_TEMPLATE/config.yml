@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: CONTRIBUTING.md 
+  - name: Experiencing screen resolution problems?
     url: https://github.community/
-    about: Not sure where to start? Check out our contributing guidelines
+    about: How to troubleshoot display issues in the app
