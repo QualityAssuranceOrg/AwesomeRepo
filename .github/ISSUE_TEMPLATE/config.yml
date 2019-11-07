@@ -2,5 +2,5 @@ blank_issues_enabled: false
 contact_links:
   - name: Say thanks!
     url: https://github.community/
-    about: A deep-link to our 'Thank you' issue [by appending `#partial-timeline` to the end of an issue URL]
+    about: Comment on this issue if you'd like to thank the maintainers of this project
     
