@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Say thanks!
     url: https://github.community/
-    about: Deep link to the comment box for a 'Thanks' issue by appending #partial-timeline to the URL
+    about: Deep link to the comment box for a 'Thanks' issue by appending `#partial-timeline` to the URL
