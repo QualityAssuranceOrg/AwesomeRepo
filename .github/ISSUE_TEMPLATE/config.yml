@@ -1,5 +1,12 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Browse existing issues
+  - name: New issue on /SomeMicroservice1
     url: https://github.community/
-    about: We're no longer soliciting new issues on this project 
+    about: Having a problem with X? Report it on the /SomeRadicalOrg/SomeMicroservice1 repo
+  - name: New issue on /SomeMicroservice2
+    url: https://github.community/
+    about: Having a problem with Y? Report it on the /SomeRadicalOrg/SomeMicroservice2 repo
+  - name: New issue on /SomeMicroservice3
+    url: https://github.community/
+    about: Having a problem with Z? Report it on the /SomeRadicalOrg/SomeMicroservice3 repo
+    
