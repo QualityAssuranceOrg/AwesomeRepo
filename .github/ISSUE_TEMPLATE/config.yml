@@ -1,5 +1,5 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
-  - name: Experiencing screen resolution problems?
+  - name: Browse existing issues
     url: https://github.community/
-    about: How to troubleshoot display issues in the app
+    about: We're no longer soliciting new issues on this project 
