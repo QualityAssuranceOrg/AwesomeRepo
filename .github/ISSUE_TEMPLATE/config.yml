@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: New issue on /SomeMicroservice1
+  - name: Say thanks!
     url: https://github.community/
-    about: Having a problem with Y? Report it on the /SomeRadicalOrg/SomeMicroservice1 repo
-  - name: New issue on /SomeMicroservice2
-    url: https://github.community/
-    about: Having a problem with Z? Report it on the /SomeRadicalOrg/SomeMicroservice2 repo
+    about: Deep link to the comment box for a 'Thanks' issue by appending #partial-timeline to the URL
