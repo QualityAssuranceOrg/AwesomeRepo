@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Say thanks!
     url: https://github.community/
-    about: Deep link to the bottom of a single 'Thank you' issue by appending `#partial-timeline` to the URL. Example: github.com/SomeRadicalOrg/AwesomeRepo/issues/1#partial-timeline
+    about: Deep link to the bottom of a single 'Thank you' issue by appending `#partial-timeline` to the end of an issue URL
